@@ -5,7 +5,7 @@ email: yaxiongx@buffalo.edu
 website: https://xieyaxiongfly.github.io/#home
 photo: yaxiong.jpg
 meta:
-  Office Hours: On-deman via Email 
+	abs ddd
 ---
 
-[Schedule an appointment](mailto:yaxiongx@buffalo.edu){: .btn .btn-outline }
+[Talk to Me](mailto:yaxiongx@buffalo.edu){: .btn .btn-outline }
